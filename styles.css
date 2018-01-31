@@ -1,0 +1,25 @@
+.body {
+    width: 400px;
+    border: 1px solid #bcbfc4;
+    box-sizing: 400px 400px;
+    box-shadow:  10px 10px #bcbfc4;
+    border-radius: 5px;
+    padding: 20px;
+}
+
+img {
+height: 200px;
+padding: 20px;
+border-radius: 5px;
+}
+
+.info{
+  border: 1px solid #bcbfc4;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: -40px;
+}
